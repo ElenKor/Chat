@@ -1,0 +1,6 @@
+serverPort = 8189
+histroryMessages = 5
+messagesHandlerType = XML
+timeout = 300
+maxClients = 100
+log = true
